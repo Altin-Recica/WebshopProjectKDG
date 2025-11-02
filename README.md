@@ -35,3 +35,5 @@ git clone https://github.com/Altin-Recica/WebshopProjectKDG.git
 
 
 **Altin Recica** – Studieproject KDG Hogeschool
+
+![Screenshot](https://github.com/Altin-Recica/WebshopProjectKDG/blob/main/media/screenshot.png?raw=true)
